@@ -22,5 +22,6 @@
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
   "editor.rulers": [100],
-  "ruff.lineLength": 100
+  "ruff.lineLength": 100,
+  "terminal.integrated.cwd": "${workspaceFolder}"
 }
